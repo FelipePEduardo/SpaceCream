@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/103855358/172730124-cb137e86-e84b-4dd6-b746-8683e06c92ba.png)
 
 # Sobre
-<p>Space Cream é um desafio da Rocketseat para estudos. Feito para treinar os conceitos aprendidos em aula, afinal praticar é muito bom!</p>
+<p>Space Cream é um desafio da Rocketseat para estudos. Feito para treinar os conceitos aprendidos em aula, nesse desafio testamos e display grid e o @media na questão da responsividade de acordo com os dispositivos!</p>
 
 # Tecnologias utilizadas
 - [ HTML ]
